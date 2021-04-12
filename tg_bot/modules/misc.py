@@ -142,7 +142,7 @@ def info(bot: Bot, update: Update, args: List[str]):
     disaster_level_present = False
 
     if user.id == OWNER_ID:
-        text += "\n😎The Disaster level of this person is 'LEGEND'."
+        text += "\n😎THE SKILL OF THIS PERSON IS 'RAIDER'."
         disaster_level_present = True
     elif user.id in DEV_USERS:
         text += "\n🔥This member is one of 'Hero Association'."
