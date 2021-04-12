@@ -30,7 +30,7 @@ def check_user_id(user_id: int, bot: Bot) -> Optional[str]:
 #I added extra new lines 
 disasters = """ *"Disaster Levels"*
 \n*Heroes Association* - Devs who can access the bots server and can execute, edit, modify bot code. Can also manage other Disasters
-\n*LEGEND* - Only one exists, bot owner. 
+\n*Raider* - Only one exists, bot owner. 
 \n*Dragons* - Have super user access, can gban, manage disasters lower than them and are admins in phantom.
 \n*HACKER* - Have access go globally ban users across this bot 
 \n*Tigers* - Same as wolves but can unban themselves if banned.
